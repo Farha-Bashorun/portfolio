@@ -1,0 +1,47 @@
+h1{
+    color: purple;
+    background-color: black;
+    font-size: 80px;
+    text-align: center;
+    border-radius: 60px;
+    font-family: tahoma;
+}
+li{
+    font-size: 40px;
+    color: blueviolet;
+    list-style: none;
+    padding-left: 40px;
+}
+h4{
+    color: black;
+
+}
+h5{
+    color: purple;
+    font-size: 40px;
+    padding-left: 40px ;
+}
+h3{
+    color: black;
+    font-size: 70px;
+    font-family: tahoma;
+    background-color: purple;
+    border-radius: 60px;
+    text-align: center;
+    }
+h2{
+    color: black;
+    font-size: 60px;
+}
+li{
+    list-style: none;
+    padding-left: 40px;
+}
+.contain{
+    background-color: blueviolet;
+}
+footer{
+    background-color: black;
+    font-family: tahoma;
+    height: 100%;
+}
